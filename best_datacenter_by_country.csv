@@ -8,11 +8,11 @@ AR,Toronto,Buenos Aires,149.438,Argentina,South America,2025-12-18
 AT,Amsterdam,Vienna,20.7,Austria,Western Europe,2025-12-31
 AU,Sydney,Sydney,3.127,Australia,Australia and New Zealand,2025-12-30
 AZ,Amsterdam,Baku,77.315,Azerbaijan,Western Asia,2025-12-22
-BA,Amsterdam,Sarajevo,31.03,Bosnia and Herzegovina,Southern Europe,2025-12-31
+BA,Amsterdam,Sarajevo,30.176,Bosnia and Herzegovina,Southern Europe,2026-01-05
 BD,Sydney,Dhaka,188.872,Bangladesh,Southern Asia,2025-12-30
 BE,Amsterdam,Brussels,5.738,Belgium,Western Europe,2025-12-31
 BF,Amsterdam,Ouagadougou,178.482,Burkina Faso,Western Africa,2025-12-22
-BG,Amsterdam,Plovdiv,31.23,Bulgaria,Eastern Europe,2025-12-22
+BG,Amsterdam,Sofia,31.227,Bulgaria,Eastern Europe,2026-01-05
 BH,Amsterdam,Al Muharraq,165.761,Bahrain,Western Asia,2025-12-31
 BJ,Amsterdam,Cotonou,120.363,Benin,Western Africa,2025-12-31
 BO,Toronto,La Paz,122.725,Bolivia,South America,2025-12-18
@@ -28,12 +28,12 @@ CY,Amsterdam,Larnaca,60.548,Cyprus,Western Asia,2025-12-22
 CZ,Amsterdam,Prague,17.992,Czechia,Eastern Europe,2025-12-31
 DE,Amsterdam,Frankfurt,9.521,Germany,Western Europe,2025-12-22
 DK,Amsterdam,Copenhagen,15.711,Denmark,Northern Europe,2025-12-22
-EE,Amsterdam,Tallinn,32.093,Estonia,Northern Europe,2025-12-31
+EE,Amsterdam,Tallinn,30.459,Estonia,Northern Europe,2026-01-05
 EG,Amsterdam,Cairo,60.467,Egypt,Northern Africa,2025-12-22
-ES,Amsterdam,Valencia,32.169,Spain,Southern Europe,2025-12-31
+ES,Amsterdam,Madrid,25.699,Spain,Southern Europe,2026-01-05
 FI,Amsterdam,Helsinki,31.865,Finland,Northern Europe,2025-12-22
 FO,Amsterdam,Torshavn,29.436,Faroe Islands,Northern Europe,2025-12-31
-FR,Amsterdam,Paris,13.684,France,Western Europe,2025-12-22
+FR,Amsterdam,Paris,11.848,France,Western Europe,2026-01-05
 GB,Amsterdam,London,11.452,United Kingdom,Northern Europe,2025-12-22
 GE,Amsterdam,Tbilisi,69.026,Georgia,Western Asia,2025-12-31
 GR,Amsterdam,Thessaloniki,42.489,Greece,Southern Europe,2025-12-22
@@ -41,12 +41,12 @@ GT,Toronto,Guatemala City,85.147,Guatemala,Central America,2025-12-31
 GU,Sydney,Dededo Village,139.446,Guam,Micronesia,2026-01-05
 HK,Sydney,Hong Kong,149.86,Hong Kong,Eastern Asia,2025-12-30
 HR,Amsterdam,Karlovac,35.195,Croatia,Southern Europe,2025-12-31
-HU,Amsterdam,Budapest,22.294,Hungary,Eastern Europe,2025-12-31
-IE,Amsterdam,Dublin,17.412,Ireland,Northern Europe,2025-12-22
+HU,Amsterdam,Budapest,21.604,Hungary,Eastern Europe,2026-01-05
+IE,Amsterdam,Dublin,17.169,Ireland,Northern Europe,2026-01-05
 IL,Amsterdam,Tel Aviv,70.528,Israel,Western Asia,2025-12-31
 IM,Amsterdam,Douglas,29.64,Isle of Man,Western Europe,2025-12-22
 IN,Columbus,Hyderabad,163.116,India,Southern Asia,2025-12-30
-IS,Amsterdam,Reykjavik,39.246,Iceland,Northern Europe,2025-12-31
+IS,Amsterdam,Reykjavik,39.057,Iceland,Northern Europe,2026-01-05
 IT,Amsterdam,Milan,21.539,Italy,Southern Europe,2025-12-31
 JP,Sydney,Tokyo,110.307,Japan,Eastern Asia,2026-01-05
 KG,Amsterdam,Bishkek,92.182,Kyrgyzstan,Central Asia,2025-12-31
@@ -55,14 +55,14 @@ KZ,Amsterdam,Almaty,92.235,Kazakhstan,Central Asia,2025-12-22
 LB,Amsterdam,Sidon,60.451,Lebanon,Western Asia,2025-12-22
 LC,Toronto,Gros Islet,8.907,Saint Lucia,Caribbean,2025-12-31
 LT,Amsterdam,Siauliai,32.907,Lithuania,Northern Europe,2025-12-22
-LU,Amsterdam,Luxembourg,17.646,Luxembourg,Western Europe,2025-12-31
+LU,Amsterdam,Luxembourg,17.484,Luxembourg,Western Europe,2026-01-05
 LV,Amsterdam,Riga,31.709,Latvia,Northern Europe,2025-12-31
 MD,Amsterdam,Chisinau,43.682,Moldova,Eastern Europe,2025-12-22
 MK,Amsterdam,Skopje,34.718,North Macedonia,Southern Europe,2025-12-22
 MO,Sydney,Macau,156.611,Macau,Eastern Asia,2025-12-30
-MT,Amsterdam,Qormi,47.031,Malta,Southern Europe,2025-12-22
+MT,Amsterdam,Qormi,46.05,Malta,Southern Europe,2026-01-05
 MX,Columbus,Queretaro,49.624,Mexico,Central America,2025-12-29
-NG,Amsterdam,Lagos,157.915,Nigeria,Western Africa,2025-12-31
+NG,Amsterdam,Lagos,157.74,Nigeria,Western Africa,2026-01-05
 NL,Amsterdam,Amsterdam,3.016,Netherlands,Western Europe,2025-12-31
 NO,Amsterdam,Sandefjord,29.179,Norway,Northern Europe,2025-12-22
 NP,Amsterdam,Kathmandu,166.222,Nepal,Southern Asia,2026-01-05
@@ -73,7 +73,7 @@ PE,Toronto,Lima,98.866,Peru,South America,2025-12-30
 PK,Amsterdam,Islamabad,133.682,Pakistan,Southern Asia,2025-12-30
 PL,Amsterdam,Gdansk,25.955,Poland,Eastern Europe,2025-12-31
 PR,Toronto,Carolina,54.261,Puerto Rico,Caribbean,2025-12-30
-PT,Amsterdam,Lisbon,34.67,Portugal,Southern Europe,2025-12-31
+PT,Amsterdam,Lisbon,34.275,Portugal,Southern Europe,2026-01-05
 PY,Toronto,Asuncion,164.109,Paraguay,South America,2025-12-30
 QA,Amsterdam,Doha,99.937,Qatar,Western Asia,2025-12-31
 RO,Amsterdam,Oradea,40.733,Romania,Eastern Europe,2025-12-31
@@ -94,8 +94,8 @@ UA,Amsterdam,Kyiv,35.721,Ukraine,Eastern Europe,2025-12-31
 UG,Amsterdam,Kampala,223.468,Uganda,Eastern Africa,2025-12-22
 US,Columbus,Chicago,13.045,United States,Northern America,2025-12-30
 UY,Toronto,Montevideo,149.964,Uruguay,South America,2025-12-31
-UZ,Amsterdam,Tashkent,92.411,Uzbekistan,Central Asia,2025-12-22
+UZ,Amsterdam,Tashkent,92.342,Uzbekistan,Central Asia,2026-01-05
 VE,Columbus,Barquisimeto,73.871,Venezuela,South America,2025-12-30
 VU,Sydney,Port-Vila,54.817,Vanuatu,Melanesia,2025-12-30
-XK,Amsterdam,Pristina,37.014,Kosovo,Eastern Europe,2025-12-22
+XK,Amsterdam,Pristina,36.982,Kosovo,Eastern Europe,2026-01-05
 ZA,Amsterdam,Johannesburg,165.892,South Africa,Southern Africa,2025-12-22

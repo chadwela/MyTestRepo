@@ -38,7 +38,7 @@ FR,Amsterdam,Paris,11.848,France,Western Europe,2026-01-05
 GB,Amsterdam,London,11.452,United Kingdom,Northern Europe,2025-12-22
 GE,Amsterdam,Tbilisi,69.026,Georgia,Western Asia,2025-12-31
 GR,Amsterdam,Thessaloniki,42.489,Greece,Southern Europe,2025-12-22
-GT,Toronto,Guatemala City,85.147,Guatemala,Central America,2025-12-31
+GT,Toronto,Guatemala City,85.124,Guatemala,Central America,2026-01-12
 GU,Sydney,Dededo Village,139.446,Guam,Micronesia,2026-01-05
 HK,Sydney,Hong Kong,149.86,Hong Kong,Eastern Asia,2025-12-30
 HR,Amsterdam,Zagreb,24.228,Croatia,Southern Europe,2026-01-07
@@ -97,6 +97,7 @@ US,Columbus,Chicago,13.045,United States,Northern America,2025-12-30
 UY,Toronto,Montevideo,149.964,Uruguay,South America,2025-12-31
 UZ,Amsterdam,Tashkent,92.342,Uzbekistan,Central Asia,2026-01-05
 VE,Columbus,Barquisimeto,72.274,Venezuela,South America,2026-01-07
+VI,Amsterdam,Charlotte Amalie,2.602,United States Virgin Islands,Caribbean,2026-01-12
 VU,Sydney,Port-Vila,54.817,Vanuatu,Melanesia,2025-12-30
 XK,Amsterdam,Pristina,36.887,Kosovo,Eastern Europe,2026-01-07
 ZA,Amsterdam,Johannesburg,165.892,South Africa,Southern Africa,2025-12-22

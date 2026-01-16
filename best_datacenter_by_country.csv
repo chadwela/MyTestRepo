@@ -1,5 +1,5 @@
 country_code,datacenter,city,avg_latency,country_name,region
-AD,Amsterdam,Andorra la Vella,100,Andorra,Southern Europe
+AD,Amsterdam,Andorra la Vella,1000,Andorra,Southern Europe
 AE,Amsterdam,Dubai,106.748,United Arab Emirates,Western Asia
 AL,Amsterdam,Tirana,64.524,Albania,Southern Europe
 AM,Amsterdam,Yerevan,66.748,Armenia,Western Asia

@@ -1,5 +1,5 @@
 country_code,datacenter,city,avg_latency,country_name,region
-AD,Amsterdam,Andorra la Vella,1000,Andorra,Southern Europe
+AD,Amsterdam,Andorra la Vella,40,Andorra,Southern Europe
 AE,Amsterdam,Dubai,106.748,United Arab Emirates,Western Asia
 AL,Amsterdam,Tirana,64.524,Albania,Southern Europe
 AM,Amsterdam,Yerevan,66.748,Armenia,Western Asia
@@ -96,7 +96,7 @@ TT,Columbus,Princes Town,86.183,Trinidad and Tobago,Caribbean
 TW,Sydney,Taipei,179.834,Taiwan,Eastern Asia
 UA,Amsterdam,Kyiv,36.585,Ukraine,Eastern Europe
 UG,Amsterdam,Kampala,252.648,Uganda,Eastern Africa
-US,Columbus,Santa Clara,1000,United States of America,Northern America
+US,Columbus,Santa Clara,100,United States of America,Northern America
 UY,Toronto,Montevideo,156.963,Uruguay,South America
 VE,Toronto,Barquisimeto,78.704,Venezuela,South America
 VN,Sydney,Ho Chi Minh City,197.921,Vietnam,South-eastern Asia

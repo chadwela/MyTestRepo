@@ -1,108 +1,103 @@
-country_code,datacenter,city,avg_latency,country_name,region
-AD,Amsterdam,Andorra la Vella,36.15,Andorra,Southern Europe
-AE,Amsterdam,Dubai,106.748,United Arab Emirates,Western Asia
-AL,Amsterdam,Tirana,64.524,Albania,Southern Europe
-AM,Amsterdam,Yerevan,66.748,Armenia,Western Asia
-AO,Amsterdam,Luanda,214.436,Angola,Middle Africa
-AR,Toronto,Buenos Aires,153.277,Argentina,South America
-AT,Amsterdam,Vienna,20.123,Austria,Western Europe
-AU,Sydney,Sydney,2.729,Australia,Australia and New Zealand
-AZ,Amsterdam,Baku,78.513,Azerbaijan,Western Asia
-BA,Amsterdam,Novi Travnik,33.953,Bosnia and Herzegovina,Southern Europe
-BD,Sydney,Dhaka,256.085,Bangladesh,Southern Asia
-BE,Amsterdam,Brussels,5.758,Belgium,Western Europe
-BF,Amsterdam,Ouagadougou,174.28,Burkina Faso,Western Africa
-BG,Amsterdam,Sofia,31.089,Bulgaria,Eastern Europe
-BH,Amsterdam,Al Muharraq,169.462,Bahrain,Western Asia
-BJ,Amsterdam,Cotonou,120.288,Benin,Western Africa
-BO,Toronto,La Paz,176.725,Bolivia,South America
-BR,Toronto,Sao Paulo,125.402,Brazil,South America
-BY,Amsterdam,Minsk,29.175,Belarus,Eastern Europe
-CA,Toronto,Montreal,9.557,Canada,Northern America
-CH,Amsterdam,Zurich,18.642,Switzerland,Western Europe
-CL,Toronto,Vina del Mar,173.518,Chile,South America
-CN,Toronto,Guangzhou,218.018,China,Eastern Asia
-CO,Columbus,Medellin,88.752,Colombia,South America
-CR,Columbus,San Jose,82.487,Costa Rica,Central America
-CY,Amsterdam,Larnaca,62.823,Cyprus,Western Asia
-CZ,Amsterdam,Prague,17.895,Czechia,Eastern Europe
-DE,Amsterdam,Falkenstein,18.463,Germany,Western Europe
-DK,Amsterdam,Copenhagen,15.538,Denmark,Northern Europe
-EE,Amsterdam,Tallinn,30.6,Estonia,Northern Europe
-EG,Amsterdam,Cairo,60.736,Egypt,Northern Africa
-ES,Amsterdam,Barcelona,37.984,Spain,Southern Europe
-FI,Amsterdam,Helsinki,46.778,Finland,Northern Europe
-FO,Amsterdam,Torshavn,30.151,Faroe Islands,Northern Europe
-FR,Amsterdam,Roubaix,9.801,France,Western Europe
-GB,Amsterdam,London,11.48,United Kingdom,Northern Europe
-GE,Amsterdam,Tbilisi,70.717,Georgia,Western Asia
-GR,Amsterdam,Rodos,63.239,Greece,Southern Europe
-GT,Toronto,Guatemala City,85.092,Guatemala,Central America
-GU,Columbus,Dededo Village,180.009,Guam,Micronesia
-HK,Sydney,Hong Kong,166.38,Hong Kong,Eastern Asia
-HR,Amsterdam,Karlovac,33.847,Croatia,Southern Europe
-HU,Amsterdam,Budapest,30.669,Hungary,Eastern Europe
-ID,Sydney,Jakarta,195.613,Indonesia,South-eastern Asia
-IE,Amsterdam,Dublin,19.609,Ireland,Northern Europe
-IL,Amsterdam,Tel Aviv,61.14,Israel,Western Asia
-IN,Amsterdam,Mumbai,172.157,India,Southern Asia
-IS,Amsterdam,Reykjavik,39.325,Iceland,Northern Europe
-IT,Amsterdam,Milan,20.187,Italy,Southern Europe
-JP,Sydney,Tokyo,112.614,Japan,Eastern Asia
-KG,Amsterdam,Bishkek,101.952,Kyrgyzstan,Central Asia
-KH,Amsterdam,Phnom Penh,199.357,Cambodia,South-eastern Asia
-KR,Columbus,Seoul,178.635,South Korea,Eastern Asia
-KZ,Amsterdam,Pavlodar,185.679,Kazakhstan,Central Asia
-LB,Amsterdam,Sidon,61.373,Lebanon,Western Asia
-LC,Toronto,Gros Islet,9.155,Saint Lucia,Caribbean
-LT,Amsterdam,Vilnius,32.786,Lithuania,Northern Europe
-LU,Amsterdam,Luxembourg,18.852,Luxembourg,Western Europe
-LV,Amsterdam,Riga,32.389,Latvia,Northern Europe
-MA,Amsterdam,Fes,40.244,Morocco,Northern Africa
-MD,Amsterdam,Chisinau,44.274,Moldova,Eastern Europe
-MK,Amsterdam,Skopje,35.061,North Macedonia,Southern Europe
-MM,Sydney,Yangon,186.562,Myanmar,South-eastern Asia
-MT,Amsterdam,San Pawl il-Bahar,49.227,Malta,Southern Europe
-MX,Columbus,Queretaro,52.766,Mexico,Central America
-MY,Sydney,Johor Bahru,152.235,Malaysia,South-eastern Asia
-NA,Amsterdam,Windhoek,185.7,Namibia,Southern Africa
-NG,Amsterdam,Lagos,126.567,Nigeria,Western Africa
-NL,Amsterdam,Amsterdam,2.821,Netherlands,Western Europe
-NO,Amsterdam,Oslo,23.434,Norway,Northern Europe
-NP,Sydney,Kathmandu,231.699,Nepal,Southern Asia
-NZ,Sydney,Auckland,173.39,New Zealand,Australia and New Zealand
-OM,Amsterdam,Muscat,125.978,Oman,Western Asia
-PA,Toronto,Panama,89.257,Panama,Central America
-PE,Columbus,Lima,169.955,Peru,South America
-PH,Sydney,Manila,179.259,Philippines,South-eastern Asia
-PK,Amsterdam,Islamabad,138.468,Pakistan,Southern Asia
-PL,Amsterdam,Warsaw,28.849,Poland,Eastern Europe
-PR,Columbus,San Juan,62.176,Puerto Rico,Caribbean
-PT,Amsterdam,Gondomar,43.447,Portugal,Southern Europe
-PY,Toronto,Asuncion,177.664,Paraguay,South America
-QA,Amsterdam,Doha,100.943,Qatar,Western Asia
-RO,Amsterdam,Oradea,42.507,Romania,Eastern Europe
-RS,Amsterdam,Belgrade,34.199,Serbia,Southern Europe
-SA,Amsterdam,Jeddah,77.603,Saudi Arabia,Western Asia
-SB,Sydney,Honiara,151.974,Solomon Islands,Melanesia
-SC,Amsterdam,Victoria,186.114,Seychelles,Eastern Africa
-SE,Amsterdam,Stockholm,25.691,Sweden,Northern Europe
-SG,Amsterdam,Singapore,155.115,Singapore,South-eastern Asia
-SI,Amsterdam,Ljubljana,23.562,Slovenia,Southern Europe
-SK,Amsterdam,Bratislava,24.207,Slovakia,Eastern Europe
-SL,Amsterdam,Freetown,128.917,Sierra Leone,Western Africa
-TH,Sydney,Bangkok,185.091,Thailand,South-eastern Asia
-TJ,Amsterdam,Dushanbe,149.468,Tajikistan,Central Asia
-TN,Amsterdam,Tunis,39.464,Tunisia,Northern Africa
-TR,Amsterdam,Istanbul,45.391,Turkey,Western Asia
-TT,Columbus,Princes Town,86.183,Trinidad and Tobago,Caribbean
-TW,Sydney,Taipei,179.834,Taiwan,Eastern Asia
-UA,Amsterdam,Kyiv,36.585,Ukraine,Eastern Europe
-UG,Amsterdam,Kampala,252.648,Uganda,Eastern Africa
-US,Columbus,Santa Clara,58.73,United States of America,Northern America
-UY,Toronto,Montevideo,156.963,Uruguay,South America
-VE,Toronto,Barquisimeto,78.704,Venezuela,South America
-VN,Sydney,Ho Chi Minh City,197.921,Vietnam,South-eastern Asia
-ZA,Amsterdam,Johannesburg,165.802,South Africa,Southern Africa
-,Amsterdam,,,Algeria,
-,Amsterdam,,,Libya,
+country_code,datacenter,city,avg_latency,country_name,region,date
+AD,Amsterdam,Andorra la Vella,36.146,Andorra,Southern Europe,2026-01-21
+AE,Amsterdam,Fujairah,113.92,United Arab Emirates,Western Asia,2026-01-21
+AL,Amsterdam,Tirana,39.884,Albania,Southern Europe,2026-01-14
+AM,Amsterdam,Yerevan,66.592,Armenia,Western Asia,2025-12-22
+AO,Amsterdam,Luanda,211.766,Angola,Middle Africa,2026-01-21
+AR,Toronto,Buenos Aires,148.793,Argentina,South America,2026-01-14
+AT,Amsterdam,Klagenfurt am Worthersee,19.326,Austria,Western Europe,2026-01-14
+AU,Sydney,Sydney,2.402,Australia,Australia and New Zealand,2026-01-13
+AZ,Amsterdam,Baku,77.315,Azerbaijan,Western Asia,2025-12-22
+BA,Amsterdam,Sarajevo,30.176,Bosnia and Herzegovina,Southern Europe,2026-01-05
+BD,Sydney,Dhaka,188.872,Bangladesh,Southern Asia,2025-12-30
+BE,Amsterdam,Brussels,5.697,Belgium,Western Europe,2026-01-07
+BF,Amsterdam,Ouagadougou,177.534,Burkina Faso,Western Africa,2026-01-21
+BG,Amsterdam,Sofia,30.392,Bulgaria,Eastern Europe,2026-01-21
+BH,Amsterdam,Al Muharraq,165.761,Bahrain,Western Asia,2025-12-31
+BJ,Amsterdam,Cotonou,120.313,Benin,Western Africa,2026-01-14
+BO,Toronto,La Paz,122.725,Bolivia,South America,2025-12-18
+BR,Toronto,Sao Paulo,124.514,Brazil,South America,2025-12-30
+BY,Amsterdam,Minsk,29.236,Belarus,Eastern Europe,2026-01-14
+CA,Toronto,Toronto,2.745,Canada,Northern America,2026-01-14
+CH,Amsterdam,Zurich,18.366,Switzerland,Western Europe,2025-12-22
+CL,Toronto,Santiago,127.683,Chile,South America,2025-12-31
+CN,Toronto,Wuhan,205.069,China,Eastern Asia,2026-01-05
+CO,Toronto,Bogota,85.771,Colombia,South America,2025-12-30
+CR,Columbus,San Jose,74.133,Costa Rica,Central America,2025-12-30
+CY,Amsterdam,Larnaca,58.689,Cyprus,Western Asia,2026-01-21
+CZ,Amsterdam,Prague,17.992,Czechia,Eastern Europe,2025-12-31
+DE,Amsterdam,Frankfurt,9.521,Germany,Western Europe,2025-12-22
+DK,Amsterdam,Copenhagen,15.603,Denmark,Northern Europe,2026-01-07
+EC,Toronto,Cuenca,102.2,Ecuador,South America,2026-01-14
+EE,Amsterdam,Tallinn,30.459,Estonia,Northern Europe,2026-01-05
+EG,Amsterdam,Cairo,60.262,Egypt,Northern Africa,2026-01-14
+ES,Amsterdam,Madrid,25.699,Spain,Southern Europe,2026-01-05
+FI,Amsterdam,Helsinki,31.865,Finland,Northern Europe,2025-12-22
+FO,Amsterdam,Torshavn,29.351,Faroe Islands,Northern Europe,2026-01-07
+FR,Amsterdam,Paris,11.848,France,Western Europe,2026-01-05
+GB,Amsterdam,London,11.452,United Kingdom,Northern Europe,2025-12-22
+GE,Amsterdam,Tbilisi,69.026,Georgia,Western Asia,2025-12-31
+GR,Amsterdam,Thessaloniki,42.489,Greece,Southern Europe,2025-12-22
+GT,Toronto,Guatemala City,85.124,Guatemala,Central America,2026-01-12
+GU,Sydney,Dededo Village,139.446,Guam,Micronesia,2026-01-05
+HK,Sydney,Hong Kong,149.86,Hong Kong,Eastern Asia,2025-12-30
+HR,Amsterdam,Zagreb,24.228,Croatia,Southern Europe,2026-01-07
+HU,Amsterdam,Budapest,21.604,Hungary,Eastern Europe,2026-01-05
+IE,Amsterdam,Dublin,17.01,Ireland,Northern Europe,2026-01-07
+IL,Amsterdam,Tel Aviv,63.988,Israel,Western Asia,2026-01-21
+IM,Amsterdam,Douglas,29.64,Isle of Man,Western Europe,2025-12-22
+IN,Columbus,Hyderabad,163.116,India,Southern Asia,2025-12-30
+IS,Amsterdam,Reykjavik,39.057,Iceland,Northern Europe,2026-01-05
+IT,Amsterdam,Milan,21.539,Italy,Southern Europe,2025-12-31
+JP,Sydney,Tokyo,110.307,Japan,Eastern Asia,2026-01-05
+KG,Amsterdam,Bishkek,92.182,Kyrgyzstan,Central Asia,2025-12-31
+KR,Sydney,Seoul,143.732,South Korea,Eastern Asia,2025-12-30
+KZ,Amsterdam,Almaty,92.235,Kazakhstan,Central Asia,2025-12-22
+LB,Amsterdam,Sidon,59.959,Lebanon,Western Asia,2026-01-21
+LC,Toronto,Gros Islet,8.907,Saint Lucia,Caribbean,2025-12-31
+LT,Amsterdam,Vilnius,31.635,Lithuania,Northern Europe,2026-01-21
+LU,Amsterdam,Luxembourg,17.378,Luxembourg,Western Europe,2026-01-14
+LV,Amsterdam,Riga,31.709,Latvia,Northern Europe,2025-12-31
+MD,Amsterdam,Chisinau,43.682,Moldova,Eastern Europe,2025-12-22
+MK,Amsterdam,Skopje,34.718,North Macedonia,Southern Europe,2025-12-22
+MO,Sydney,Macau,156.38,Macau,Eastern Asia,2026-01-06
+MT,Amsterdam,Qormi,46.05,Malta,Southern Europe,2026-01-05
+MX,Columbus,Queretaro,49.624,Mexico,Central America,2025-12-29
+NG,Amsterdam,Lagos,111.108,Nigeria,Western Africa,2026-01-14
+NL,Amsterdam,Amsterdam,2.759,Netherlands,Western Europe,2026-01-14
+NO,Amsterdam,Sandefjord,28.716,Norway,Northern Europe,2026-01-14
+NP,Amsterdam,Kathmandu,166.222,Nepal,Southern Asia,2026-01-05
+NZ,Sydney,New Plymouth,41.673,New Zealand,Australia and New Zealand,2025-12-30
+OM,Amsterdam,Muscat,118.329,Oman,Western Asia,2025-12-31
+PA,Columbus,Panama,78.268,Panama,Central America,2025-12-30
+PE,Toronto,Lima,98.815,Peru,South America,2026-01-14
+PK,Amsterdam,Lahore,133.307,Pakistan,Southern Asia,2026-01-13
+PL,Amsterdam,Gdansk,25.955,Poland,Eastern Europe,2025-12-31
+PR,Toronto,Carolina,54.261,Puerto Rico,Caribbean,2025-12-30
+PT,Amsterdam,Barreiro,34.223,Portugal,Southern Europe,2026-01-14
+PY,Toronto,Asuncion,164.109,Paraguay,South America,2025-12-30
+QA,Amsterdam,Doha,93.573,Qatar,Western Asia,2026-01-14
+RO,Amsterdam,Oradea,40.733,Romania,Eastern Europe,2025-12-31
+RS,Amsterdam,Belgrade,30.442,Serbia,Southern Europe,2026-01-14
+SA,Amsterdam,Jeddah,77.695,Saudi Arabia,Western Asia,2025-12-31
+SB,Sydney,Honiara,151.747,Solomon Islands,Melanesia,2025-12-30
+SC,Amsterdam,Victoria,123.139,Seychelles,Eastern Africa,2025-12-31
+SE,Amsterdam,Stockholm,24.667,Sweden,Northern Europe,2025-12-22
+SI,Amsterdam,Ljubljana,23.558,Slovenia,Southern Europe,2026-01-07
+SK,Amsterdam,Bratislava,20.39,Slovakia,Eastern Europe,2025-12-22
+SL,Amsterdam,Freetown,117.403,Sierra Leone,Western Africa,2026-01-14
+TJ,Amsterdam,Dushanbe,100.99,Tajikistan,Central Asia,2025-12-22
+TN,Amsterdam,Tunis,41.429,Tunisia,Northern Africa,2025-12-22
+TR,Amsterdam,Istanbul,45.23,Turkey,Western Asia,2025-12-31
+TT,Columbus,Princes Town,86.156,Trinidad and Tobago,Caribbean,2025-12-29
+TW,Sydney,Taipei,141.56,Taiwan,Eastern Asia,2026-01-20
+UA,Amsterdam,Kyiv,35.721,Ukraine,Eastern Europe,2025-12-31
+UG,Amsterdam,Kampala,200.56,Uganda,Eastern Africa,2026-01-21
+US,Columbus,Chicago,13.045,United States,Northern America,2025-12-30
+UY,Toronto,Montevideo,149.964,Uruguay,South America,2025-12-31
+UZ,Amsterdam,Tashkent,92.342,Uzbekistan,Central Asia,2026-01-05
+VE,Columbus,Barquisimeto,72.274,Venezuela,South America,2026-01-07
+VI,Amsterdam,Charlotte Amalie,2.602,United States Virgin Islands,Caribbean,2026-01-12
+VU,Sydney,Port-Vila,54.817,Vanuatu,Melanesia,2025-12-30
+XK,Amsterdam,Pristina,36.887,Kosovo,Eastern Europe,2026-01-07
+ZA,Amsterdam,Cape Town,156.432,South Africa,Southern Africa,2026-01-14

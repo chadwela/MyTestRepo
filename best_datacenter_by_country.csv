@@ -9,7 +9,7 @@ AT,Amsterdam,Klagenfurt am Worthersee,19.326,Austria,Western Europe,2026-01-14
 AU,Sydney,Sydney,2.402,Australia,Australia and New Zealand,2026-01-13
 AZ,Amsterdam,Baku,77.315,Azerbaijan,Western Asia,2025-12-22
 BA,Amsterdam,Sarajevo,30.176,Bosnia and Herzegovina,Southern Europe,2026-01-05
-BD,Sydney,Dhaka,172.795,Bangladesh,Southern Asia,2026-02-10
+BD,Sydney,Jessore,171.383,Bangladesh,Southern Asia,2026-02-17
 BE,Amsterdam,Brussels,5.697,Belgium,Western Europe,2026-01-07
 BF,Amsterdam,Ouagadougou,177.534,Burkina Faso,Western Africa,2026-01-21
 BG,Amsterdam,Sofia,30.392,Bulgaria,Eastern Europe,2026-01-21
@@ -61,13 +61,13 @@ LU,Amsterdam,Luxembourg,10.438,Luxembourg,Western Europe,2026-01-28
 LV,Amsterdam,Riga,30.095,Latvia,Northern Europe,2026-02-11
 MD,Amsterdam,Chisinau,43.682,Moldova,Eastern Europe,2025-12-22
 MK,Amsterdam,Skopje,34.718,North Macedonia,Southern Europe,2025-12-22
-MO,Sydney,Macau,126.75,Macau,Eastern Asia,2026-02-10
+MO,Sydney,Macau,124.295,Macau,Eastern Asia,2026-02-17
 MT,Amsterdam,Qormi,46.05,Malta,Southern Europe,2026-01-05
 MX,Columbus,Queretaro,49.624,Mexico,Central America,2025-12-29
 NG,Amsterdam,Lagos,111.108,Nigeria,Western Africa,2026-01-14
 NL,Amsterdam,Amsterdam,2.523,Netherlands,Western Europe,2026-02-11
 NO,Amsterdam,Sandefjord,28.716,Norway,Northern Europe,2026-01-14
-NP,Amsterdam,Kathmandu,166.222,Nepal,Southern Asia,2026-01-05
+NP,Sydney,Kathmandu,162.228,Nepal,Southern Asia,2026-02-17
 NZ,Sydney,Auckland,30.177,New Zealand,Australia and New Zealand,2026-02-10
 OM,Amsterdam,Muscat,118.329,Oman,Western Asia,2025-12-31
 PA,Columbus,Panama,78.268,Panama,Central America,2025-12-30
@@ -81,7 +81,7 @@ QA,Amsterdam,Doha,93.412,Qatar,Western Asia,2026-02-11
 RO,Amsterdam,Timisoara,28.404,Romania,Eastern Europe,2026-01-28
 RS,Amsterdam,Belgrade,30.32,Serbia,Southern Europe,2026-02-11
 SA,Amsterdam,Jeddah,77.185,Saudi Arabia,Western Asia,2026-01-28
-SB,Sydney,Honiara,132.365,Solomon Islands,Melanesia,2026-02-10
+SB,Sydney,Honiara,132.305,Solomon Islands,Melanesia,2026-02-17
 SC,Amsterdam,Victoria,123.139,Seychelles,Eastern Africa,2025-12-31
 SE,Amsterdam,Stockholm,24.667,Sweden,Northern Europe,2025-12-22
 SI,Amsterdam,Ljubljana,23.558,Slovenia,Southern Europe,2026-01-07

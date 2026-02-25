@@ -9,7 +9,7 @@ AT,Amsterdam,Klagenfurt am Worthersee,19.326,Austria,Western Europe,2026-01-14
 AU,Sydney,Sydney,2.402,Australia,Australia and New Zealand,2026-01-13
 AZ,Amsterdam,Baku,77.315,Azerbaijan,Western Asia,2025-12-22
 BA,Amsterdam,Sarajevo,30.176,Bosnia and Herzegovina,Southern Europe,2026-01-05
-BD,Sydney,Jessore,171.383,Bangladesh,Southern Asia,2026-02-17
+BD,Sydney,Dhaka,139.765,Bangladesh,Southern Asia,2026-02-24
 BE,Amsterdam,Brussels,5.697,Belgium,Western Europe,2026-01-07
 BF,Amsterdam,Ouagadougou,177.534,Burkina Faso,Western Africa,2026-01-21
 BG,Amsterdam,Sofia,30.392,Bulgaria,Eastern Europe,2026-01-21
@@ -46,7 +46,7 @@ HU,Amsterdam,Budapest,21.604,Hungary,Eastern Europe,2026-01-05
 IE,Amsterdam,Dublin,17.01,Ireland,Northern Europe,2026-01-07
 IL,Amsterdam,Jerusalem,62.795,Israel,Western Asia,2026-01-28
 IM,Amsterdam,Douglas,29.64,Isle of Man,Western Europe,2025-12-22
-IN,Columbus,Hyderabad,163.116,India,Southern Asia,2025-12-30
+IN,Sydney,Bengaluru,145.153,India,Southern Asia,2026-02-24
 IS,Amsterdam,Reykjavik,39.057,Iceland,Northern Europe,2026-01-05
 IT,Amsterdam,Milan,21.539,Italy,Southern Europe,2025-12-31
 JP,Sydney,Tokyo,108.137,Japan,Eastern Asia,2026-02-10
@@ -64,7 +64,9 @@ MD,Amsterdam,Chisinau,43.682,Moldova,Eastern Europe,2025-12-22
 MK,Amsterdam,Skopje,34.718,North Macedonia,Southern Europe,2025-12-22
 MO,Sydney,Macau,124.295,Macau,Eastern Asia,2026-02-17
 MT,Amsterdam,Qormi,46.05,Malta,Southern Europe,2026-01-05
+MV,Sydney,Male,164.25,Maldives,Southern Asia,2026-02-24
 MX,Columbus,Queretaro,49.624,Mexico,Central America,2025-12-29
+NC,Sydney,Noumea,45.701,New Caledonia,Melanesia,2026-02-24
 NG,Amsterdam,Lagos,111.108,Nigeria,Western Africa,2026-01-14
 NL,Amsterdam,Amsterdam,2.523,Netherlands,Western Europe,2026-02-11
 NO,Amsterdam,Sandefjord,28.716,Norway,Northern Europe,2026-01-14
@@ -73,7 +75,7 @@ NZ,Sydney,Auckland,30.177,New Zealand,Australia and New Zealand,2026-02-10
 OM,Amsterdam,Muscat,118.329,Oman,Western Asia,2025-12-31
 PA,Columbus,Panama,78.268,Panama,Central America,2025-12-30
 PE,Toronto,Lima,98.815,Peru,South America,2026-01-14
-PK,Amsterdam,Karachi,131.678,Pakistan,Southern Asia,2026-01-27
+PK,Amsterdam,Karachi,116.988,Pakistan,Southern Asia,2026-02-24
 PL,Amsterdam,Gdansk,25.955,Poland,Eastern Europe,2025-12-31
 PR,Toronto,Carolina,54.261,Puerto Rico,Caribbean,2025-12-30
 PT,Amsterdam,Barreiro,34.223,Portugal,Southern Europe,2026-01-14

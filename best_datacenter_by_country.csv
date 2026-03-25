@@ -1,5 +1,5 @@
 country_code,datacenter,city,avg_latency,country_name,region,date
-AD,Amsterdam,Andorra la Vella,34.457,Andorra,Southern Europe,2026-02-18
+AD,Amsterdam,Andorra la Vella,34.187,Andorra,Southern Europe,2026-03-25
 AE,Amsterdam,Abu Dhabi,110.559,United Arab Emirates,Western Asia,2026-01-28
 AL,Amsterdam,Tirana,30.322,Albania,Southern Europe,2026-03-04
 AM,Amsterdam,Yerevan,61.1,Armenia,Western Asia,2026-03-04
@@ -7,13 +7,13 @@ AO,Amsterdam,Luanda,211.405,Angola,Middle Africa,2026-02-25
 AR,Toronto,Buenos Aires,148.793,Argentina,South America,2026-01-14
 AT,Amsterdam,Klagenfurt am Worthersee,19.326,Austria,Western Europe,2026-01-14
 AU,Sydney,Sydney,2.402,Australia,Australia and New Zealand,2026-01-13
-AZ,Toronto,Baku,158.058,Azerbaijan,Western Asia,2026-02-18
+AZ,Amsterdam,Baku,78.384,Azerbaijan,Western Asia,2026-03-25
 BA,Amsterdam,Sarajevo,30.176,Bosnia and Herzegovina,Southern Europe,2026-01-05
 BD,Sydney,Dhaka,139.765,Bangladesh,Southern Asia,2026-02-24
 BE,Amsterdam,Brussels,5.697,Belgium,Western Europe,2026-01-07
 BF,Amsterdam,Ouagadougou,173.137,Burkina Faso,Western Africa,2026-02-25
-BG,Amsterdam,Sofia,30.392,Bulgaria,Eastern Europe,2026-01-21
-BH,Amsterdam,Manama,104.221,Bahrain,Western Asia,2026-03-18
+BG,Amsterdam,Sofia,30.34,Bulgaria,Eastern Europe,2026-03-25
+BH,Amsterdam,Manama,99.237,Bahrain,Western Asia,2026-03-25
 BJ,Amsterdam,Cotonou,118.924,Benin,Western Africa,2026-02-11
 BO,Columbus,La Paz,130.208,Bolivia,South America,2025-12-30
 BR,Toronto,Sao Paulo,124.514,Brazil,South America,2025-12-30
@@ -25,8 +25,8 @@ CN,Toronto,Wuhan,205.069,China,Eastern Asia,2026-01-05
 CO,Toronto,Bogota,85.771,Colombia,South America,2025-12-30
 CR,Columbus,San Jose,74.133,Costa Rica,Central America,2025-12-30
 CY,Amsterdam,Limassol,9.254,Cyprus,Western Asia,2026-02-18
-CZ,Amsterdam,Prague,17.992,Czechia,Eastern Europe,2025-12-31
-DE,Amsterdam,Frankfurt,9.149,Germany,Western Europe,2026-03-18
+CZ,Amsterdam,Uherske Hradiste,17.688,Czechia,Eastern Europe,2026-03-25
+DE,Amsterdam,Frankfurt,8.948,Germany,Western Europe,2026-03-25
 DK,Amsterdam,Copenhagen,15.603,Denmark,Northern Europe,2026-01-07
 EC,Columbus,Cuenca,94.103,Ecuador,South America,2026-02-11
 EE,Amsterdam,Tallinn,30.154,Estonia,Northern Europe,2026-01-28
@@ -38,7 +38,7 @@ FR,Amsterdam,Roubaix,8.006,France,Western Europe,2026-03-18
 GB,Amsterdam,London,9.56,United Kingdom,Northern Europe,2026-03-04
 GE,Amsterdam,Tbilisi,59.84,Georgia,Western Asia,2026-03-18
 GH,Amsterdam,Accra,109.177,Ghana,Western Africa,2026-03-11
-GR,Amsterdam,Thessaloniki,42.056,Greece,Southern Europe,2026-03-04
+GR,Amsterdam,Athens,41.766,Greece,Southern Europe,2026-03-25
 GT,Toronto,Guatemala City,85.124,Guatemala,Central America,2026-01-12
 GU,Sydney,Dededo Village,137.333,Guam,Micronesia,2026-02-10
 HK,Sydney,Hong Kong,126.639,Hong Kong,Eastern Asia,2026-03-11
@@ -55,16 +55,16 @@ JP,Sydney,Tokyo,108.137,Japan,Eastern Asia,2026-02-10
 KE,Amsterdam,Nairobi,151.511,Kenya,Eastern Africa,2026-03-11
 KG,Amsterdam,Bishkek,92.182,Kyrgyzstan,Central Asia,2025-12-31
 KR,Sydney,Seoul,143.732,South Korea,Eastern Asia,2025-12-30
-KW,Amsterdam,Kuwait City,86.089,Kuwait,Western Asia,2026-03-18
+KW,Amsterdam,Kuwait City,84.155,Kuwait,Western Asia,2026-03-25
 KZ,Amsterdam,Aktau,80.656,Kazakhstan,Central Asia,2026-02-11
-LB,Amsterdam,Sidon,59.497,Lebanon,Western Asia,2026-03-18
+LB,Amsterdam,Sidon,59.38,Lebanon,Western Asia,2026-03-25
 LC,Toronto,Gros Islet,8.907,Saint Lucia,Caribbean,2025-12-31
 LT,Amsterdam,Vilnius,31.635,Lithuania,Northern Europe,2026-01-21
 LU,Amsterdam,Luxembourg,8.593,Luxembourg,Western Europe,2026-03-18
 LV,Amsterdam,Riga,30.095,Latvia,Northern Europe,2026-02-11
 MA,Amsterdam,Fes,40.211,Morocco,Northern Africa,2026-02-25
-MD,Toronto,Chisinau,130.837,Moldova,Eastern Europe,2026-01-28
-MK,Amsterdam,Bitola,42.927,North Macedonia,Southern Europe,2026-03-04
+MD,Amsterdam,Chisinau,45.368,Moldova,Eastern Europe,2026-03-25
+MK,Amsterdam,Skopje,35.332,North Macedonia,Southern Europe,2026-03-25
 MO,Sydney,Macau,124.152,Macau,Eastern Asia,2026-03-03
 MT,Amsterdam,Qormi,46.05,Malta,Southern Europe,2026-01-05
 MV,Sydney,Male,163.769,Maldives,Southern Asia,2026-03-11
@@ -88,13 +88,13 @@ RO,Amsterdam,Timisoara,28.404,Romania,Eastern Europe,2026-01-28
 RS,Amsterdam,Belgrade,30.32,Serbia,Southern Europe,2026-02-11
 SA,Amsterdam,Jeddah,77.185,Saudi Arabia,Western Asia,2026-01-28
 SB,Sydney,Honiara,132.305,Solomon Islands,Melanesia,2026-02-17
-SC,Amsterdam,Victoria,122.728,Seychelles,Eastern Africa,2026-02-18
+SC,Amsterdam,Victoria,122.682,Seychelles,Eastern Africa,2026-03-25
 SE,Amsterdam,Goteborg,26.584,Sweden,Northern Europe,2026-02-25
 SI,Amsterdam,Ljubljana,23.558,Slovenia,Southern Europe,2026-01-07
 SK,Amsterdam,Bratislava,20.35,Slovakia,Eastern Europe,2026-03-11
 SL,Amsterdam,Freetown,116.965,Sierra Leone,Western Africa,2026-03-18
-TJ,Toronto,Dushanbe,189.334,Tajikistan,Central Asia,2026-03-11
-TN,Toronto,Tunis,121.113,Tunisia,Northern Africa,2025-12-31
+TJ,Amsterdam,Dushanbe,98.502,Tajikistan,Central Asia,2026-03-25
+TN,Amsterdam,Tunis,42.669,Tunisia,Northern Africa,2026-03-25
 TR,Amsterdam,Istanbul,44.593,Turkey,Western Asia,2026-02-11
 TT,Columbus,Princes Town,85.444,Trinidad and Tobago,Caribbean,2026-01-28
 TW,Sydney,Taipei,141.56,Taiwan,Eastern Asia,2026-01-20
